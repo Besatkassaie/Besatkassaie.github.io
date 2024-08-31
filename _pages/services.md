@@ -2,8 +2,9 @@
 layout: page
 permalink: /services/
 title: services
-description: Services.
+description: services.
 nav: true
 nav_order: 7
 ---
 
+{% include news.liquid %}
