@@ -2,195 +2,373 @@
   "basics": {
     "name": "Besat Kassaie",
     "label": "Postdoctoral Researcher",
+    "image": "",
     "email": "bkassaie@uwaterloo.ca",
     // "phone": "+1(519)722-5963",
+    // "url": "https://www.scg.uwaterloo.ca/brushsearch/",
+    "summary": "I am involved in research focused on data intelligence and data lakes. I assist with the drafting of grant proposals and academic papers.",
     "location": {
+      "address": "",
+      "postalCode": "N2L 3G1",
       "city": "Waterloo",
-      "region": "ON",
       "countryCode": "CA",
-      "postalCode": "N2L 3G1"
+      "region": "ON"
     },
-    "summary": "Postdoctoral researcher focused on data intelligence and data lakes at the Data Systems Group, The Cheriton School of Computer Science, University of Waterloo.",
     "profiles": [
       {
         "network": "GitHub",
         "username": "Besatkassaie",
         "url": "https://github.com/Besatkassaie"
-      },
-      {
-        "network": "GitLab",
-        "username": "bkassaie",
-        "url": "https://git.uwaterloo.ca/bkassaie/updatableviews"
       }
     ]
   },
   "work": [
     {
       "name": "The Cheriton School of Computer Science, University of Waterloo",
-      "location": "Waterloo, Canada",
-      "description": "Data Systems Group",
       "position": "Postdoctoral Researcher",
-      "startDate": "2024-01",
-      "endDate": "2024-09",
-      "summary": "Research focused on data intelligence and data lakes. Assisted with drafting grant proposals and academic papers."
+      "url": "https://www.uwaterloo.ca",
+      "startDate": "2024-01-01",
+      "endDate": "2024-09-01",
+      "summary": "Research focused on data intelligence and data lakes.",
+      "highlights": []
+    },
+    {
+      "name": "The Cheriton School of Computer Science, University of Waterloo",
+      "position": "Visiting Researcher",
+      "url": "https://www.uwaterloo.ca",
+      "startDate": "2023-01-01",
+      "endDate": "2023-09-01",
+      "summary": "Served as a co-investigator on the math retrieval project, devising effective queries from texts containing mathematical formulas and content.",
+      "highlights": []
     },
     {
       "name": "WATERLOO-HUAWEI Joint Innovation Lab, University of Waterloo",
-      "location": "Waterloo, Canada",
       "position": "Graduate Research Assistant",
-      "startDate": "2019",
-      "endDate": "2023",
-      "summary": "Member of a research team developing a platform for searching documents with text and mathematical content using a pen-based interface."
+      "url": "https://www.uwaterloo.ca",
+      "startDate": "2019-01-01",
+      "endDate": "2023-01-01",
+      "summary": "Developed a platform that searches documents with text and mathematical content using a pen-based interface.",
+      "highlights": []
     },
     {
-      "name": "AGENCY FOR SCIENCE, TECHNOLOGY AND RESEARCH (A*STAR)",
-      "location": "Singapore",
+      "name": "The Cheriton School of Computer Science, University of Waterloo",
+      "position": "Graduate Teaching Assistant & Graduate Research Assistant",
+      "url": "https://www.uwaterloo.ca",
+      "startDate": "2015-01-01",
+      "endDate": "2019-01-01",
+      "summary": "Assisted in multiple undergraduate courses in Data Structures & Algorithms, Database Systems, and Introduction to Computer Science.",
+      "highlights": []
+    },
+    {
+      "name": "AGENCY FOR SCIENCE, TECHNOLOGY AND RESEARCH (A*STAR), Singapore",
       "position": "Senior Research Engineer",
-      "startDate": "2014",
-      "endDate": "2014",
-      "summary": "Worked on a project for the McLaren company, developing a machine-learning-based approach to design a sleep quality assessment tool."
+      "url": "https://www.a-star.edu.sg",
+      "startDate": "2014-01-01",
+      "endDate": "2014-12-01",
+      "summary": "Developed a machine-learning-based approach to design a sleep quality assessment tool for McLaren.",
+      "highlights": []
     },
     {
-      "name": "ITFORCE",
-      "location": "Singapore",
+      "name": "ITFORCE, Singapore",
       "position": "Information Technology Consultant",
-      "startDate": "2013",
-      "endDate": "2014",
-      "summary": "Consultant on software engineering projects."
+      "url": "",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Consultant on software engineering projects.",
+      "highlights": []
     },
     {
-      "name": "MCLS",
-      "location": "Iran",
+      "name": "MCLS, Iran",
       "position": "Senior Data Engineer",
-      "startDate": "2009",
-      "endDate": "2013",
-      "summary": "Senior Data Engineer in a large-scale data integration project."
+      "url": "",
+      "startDate": "2009-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Senior Data Engineer in a large-scale data integration project.",
+      "highlights": []
     }
   ],
+  "volunteer": [],
   "education": [
     {
       "institution": "The Cheriton School of Computer Science, University of Waterloo",
+      "url": "https://www.uwaterloo.ca",
       "area": "Computer Science",
       "studyType": "PhD",
-      "startDate": "2020",
-      "endDate": "2023",
-      "thesis": {
-        "title": "Update-Aware Information Extraction",
-        "advisor": "Prof. Frank William Tompa"
-      }
+      "startDate": "2015-01-01",
+      "endDate": "2023-01-01",
+      "score": "",
+      "courses": [
+        "PhD Thesis: Update-Aware Information Extraction",
+        "Thesis Advisor: Prof. Frank William Tompa",
+        "Committee Members: Prof. Doan, Prof. Ilyas, Prof. Kerschbaum, Prof. Gurfinkel"
+      ]
     },
     {
-      "institution": "Science and Research Branch, Azad University",
+      "institution": "Science and Research Branch, Azad University, Iran",
+      "url": "",
       "area": "Software Engineering",
       "studyType": "MENG",
-      "startDate": "2007",
-      "endDate": "2009",
-      "thesis": {
-        "title": "Application of Textual Corpus in Ontology Matching",
-        "advisor": "Prof. Amir Masoud Rahmani"
-      }
+      "startDate": "2005-01-01",
+      "endDate": "2009-01-01",
+      "score": "",
+      "courses": [
+        "Masters Thesis: Application of Textual Corpus in Ontology Matching",
+        "Thesis Advisor: Prof. Amir Masoud Rahmani"
+      ]
     },
     {
-      "institution": "Iran University of Science and Technology",
+      "institution": "Iran University of Science and Technology, Iran",
+      "url": "",
       "area": "Software Engineering",
       "studyType": "BENG",
-      "startDate": "2001",
-      "endDate": "2005",
-      "summary": "Ranked in the top 1% of nationwide applicants (243/500000)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Programming Languages",
-      "level": "",
-      "keywords": ["Java", "Scala", "Python"]
-    },
-    {
-      "name": "Information Extraction",
-      "level": "",
-      "keywords": ["AQL", "JAPE"]
-    },
-    {
-      "name": "Languages",
-      "level": "",
-      "keywords": ["English (Fluent)", "Farsi (Native)", "Turkish (Native)", "Arabic (Basic)"]
-    }
-  ],
-  "publications": [
-    {
-      "name": "Autonomously Computable Information Extraction",
-      "publisher": "Proceedings of the VLDB Endowment",
-      "releaseDate": "2023",
-      "url": "https://www.youtube.com/watch?v=uLpGBwbsTMU",
-      "summary": "Research paper on autonomously computable information extraction."
-    },
-    {
-      "name": "Updatable Extracted Views for Improving Unstructured Data Quality",
-      "publisher": "The ACM Journal of Data and Information Quality (JDIQ)",
-      "releaseDate": "In preparation",
-      "summary": "Research on improving unstructured data quality."
-    },
-    {
-      "name": "Computer-Assisted Cohort Identification in Practice",
-      "publisher": "ACM Transactions on Computing for Healthcare (HEALTH)",
-      "releaseDate": "2021",
-      "summary": "Research on computer-assisted cohort identification in healthcare."
-    }
-  ],
-  "projects": [
-    {
-      "name": "Differential Maintenance Engine (DME)",
-      "description": "An engine that identifies document updates that can be autonomously applied to extracted relations.",
-      "highlights": [
-        "Sole designer and developer",
-        "Used Java/Scala, AQL/JAPE",
-        "Published experiments in VLDB journal"
-      ]
-    },
-    {
-      "name": "Updatable Views Verifier (U2V)",
-      "description": "Tool for assessing the updatability of an extracted view presented as a JAPE program.",
-      "highlights": [
-        "Sole designer and developer",
-        "Used Java/Scala, AQL/JAPE"
-      ]
-    },
-    {
-      "name": "Iterative Query Refinement System (IQREF)",
-      "description": "Alternative approach to active learning for expert-in-the-loop cohort identification.",
-      "highlights": [
-        "Sole designer and developer",
-        "Used Java/Python, Apache Lucene"
-      ]
-    },
-    {
-      "name": "Math-Aware Search Engine",
-      "description": "A Math Retrieval system for searching documents with text and mathematical content.",
-      "highlights": [
-        "Implemented features such as SLT tree conversion and proximity re-ranking",
-        "Published best participant run for ARQMath Lab 2020-2021",
-        "Used Java/Python, Apache Lucene"
+      "startDate": "2001-01-01",
+      "endDate": "2005-01-01",
+      "score": "",
+      "courses": [
+        "Undergrad Research Advisor: Prof. Mohsen Sharifi"
       ]
     }
   ],
   "awards": [
     {
       "title": "Graduate Student Research Dissemination Award",
-      "date": "2023",
-      "awarder": "University of Waterloo, Graduate Studies and Postdoctoral Affairs",
-      "summary": "Encourages graduate students to present their research at academic conferences."
+      "date": "2023-01-01",
+      "awarder": "University of Waterloo",
+      "summary": "Encourages graduate students to present their own research at academic conferences."
+    },
+    {
+      "title": "Graduate Studies Conference Funding",
+      "date": "2023-01-01",
+      "awarder": "University of Waterloo",
+      "summary": "Supports graduate students participating in academic travel and international experiences."
     },
     {
       "title": "Doctoral Thesis Completion Award",
-      "date": "2023",
-      "awarder": "University of Waterloo, The Faculty of Mathematics",
-      "summary": "Supports doctoral students in completing their thesis writing and defense."
+      "date": "2023-01-01",
+      "awarder": "University of Waterloo",
+      "summary": "Assists highly qualified doctoral students in completing their thesis writing and defense."
+    },
+    {
+      "title": "Student Travel Grants",
+      "date": "2019-01-01",
+      "awarder": "ACM Special Interest Group on Hypertext and the Web",
+      "summary": "For students traveling to attend SIGWEB Sponsored Conferences."
+    },
+    {
+      "title": "Math Domestic Graduate Student Award",
+      "date": "2015-01-01",
+      "awarder": "University of Waterloo",
+      "summary": "Supports domestic graduate students in the Faculty of Mathematics engaged in research-based programs."
+    },
+    {
+      "title": "Provost Doctoral Entrance Award for Women",
+      "date": "2015-01-01",
+      "awarder": "University of Waterloo",
+      "summary": "Provides outstanding full-time female doctoral students with an entrance scholarship."
+    },
+    {
+      "title": "Mathematics Graduate Experience Award",
+      "date": "2015-01-01",
+      "awarder": "University of Waterloo",
+      "summary": "Provides financial support for full-time graduate students who acquire experience as a Teaching Assistant."
     }
   ],
-  "references": [
+  "publications": [
     {
-      "name": "Frank William Tompa",
-      "reference": "Distinguished Professor Emeritus and Adjunct Professor, Data Systems Research Group, The David R. Cheriton School of Computer Science, University of Waterloo. Email: fwtompa@uwaterloo.ca"
+      "name": "Updatable Extracted Views for Improving Unstructured Data Quality",
+      "publisher": "ACM Journal of Data and Information Quality (JDIQ)",
+      "releaseDate": "2024-01-01",
+      "website": "",
+      "summary": "In preparation for publication."
+    },
+    {
+      "name": "Autonomously Computable Information Extraction",
+      "publisher": "Proceedings of the VLDB Endowment, 16, 10",
+      "releaseDate": "2023-01-01",
+      "website": "https://www.youtube.com/watch?v=uLpGBwbsTMU",
+      "summary": ""
+    },
+    {
+      "name": "Computer-Assisted Cohort Identification in Practice",
+      "publisher": "ACM Transactions on Computing for Healthcare (HEALTH) 3, 2",
+      "releaseDate": "2021-01-01",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "A Framework for Extracted View Maintenance",
+      "publisher": "Proceedings of the ACM Symposium on Document Engineering 2020",
+      "releaseDate": "2020-01-01",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Predictable and Consistent Information Extraction",
+      "publisher": "Proceedings of the ACM Symposium on Document Engineering 2019",
+      "releaseDate": "2019-01-01",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Application of Textual Corpus in Ontology Matching",
+      "publisher": "Science and Research Branch, Azad University",
+      "releaseDate": "2009-01-01",
+      "website": "",
+      "summary": "Masters Thesis"
+    },
+    {
+      "name": "Update-Aware Information Extraction",
+      "publisher": "The Cheriton School of Computer Science, University of Waterloo",
+      "releaseDate": "2023-01-01",
+      "website": "",
+      "summary": "Doctoral Thesis"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": [
+        "Java",
+        "Scala",
+        "Python"
+      ]
+    },
+    {
+      "name": "Information Extraction Languages",
+      "level": "",
+      "keywords": [
+        "AQL",
+        "JAPE"
+      ]
+    },
+    {
+      "name": "Search Engines",
+      "level": "",
+      "keywords": [
+        "Apache Lucene"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Farsi",
+      "fluency": "Native"
+    },
+    {
+      "language": "Turkish",
+      "fluency": "Native"
+    },
+    {
+      "language": "Arabic",
+      "fluency": "Basic"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Data Systems",
+      "keywords": [
+        "Unstructured Data Management",
+        "Natural Language Processing",
+        "Information Extraction",
+        "Unstructured Data Quality"
+      ]
+    },
+    {
+      "name": "Information Retrieval",
+      "keywords": [
+        "Mathematical Information Retrieval"
+      ]
+    },
+    {
+      "name": "Applied Machine Learning",
+      "keywords": [
+        "Health Informatics",
+        "Large Language Models for Data Systems"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": [
+    {
+      "name": "Differential Maintenance Engine (DME)",
+      "description": "DME identifies documents' updates that can be autonomously applied on extracted relations.",
+      "highlights": [
+        "Sole designer and developer.",
+        "Conducted experiments published in the VLDB journal."
+      ],
+      "keywords": [
+        "Java",
+        "Scala",
+        "AQL",
+        "JAPE"
+      ],
+      "startDate": "",
+      "endDate": "",
+      "url": "https://github.com/Besatkassaie/Differential-Maintenance-Engine",
+      "roles": [],
+      "entity": "University of Waterloo",
+      "type": "application"
+    },
+    {
+      "name": "Updatable Views Verifier (U2V)",
+      "description": "U2V assesses the updatability of an extracted view presented as a JAPE program.",
+      "highlights": [
+        "Sole designer and developer."
+      ],
+      "keywords": [
+        "Java",
+        "Scala",
+        "AQL",
+        "JAPE"
+      ],
+      "startDate": "",
+      "endDate": "",
+      "url": "https://git.uwaterloo.ca/bkassaie/updatableviews",
+      "roles": [],
+      "entity": "University of Waterloo",
+      "type": "application"
+    },
+    {
+      "name": "Iterative Query Refinement System (IQRef)",
+      "description": "An alternative approach to active learning for expert-in-the-loop cohort identification.",
+      "highlights": [
+        "Sole designer and developer.",
+        "Published in ACM HEALTH journal."
+      ],
+      "keywords": [
+        "Java",
+        "Python",
+        "Apache Lucene"
+      ],
+      "startDate": "",
+      "endDate": "",
+      "url": "",
+      "roles": [],
+      "entity": "University of Waterloo",
+      "type": "application"
+    },
+    {
+      "name": "Math-Aware Search Engine",
+      "description": "Search and retrieve documents including mathematical content for given math formulas and terms.",
+      "highlights": [
+        "Implemented features of the search engine, conducted study of proximity signals, created proximity re-ranking run."
+      ],
+      "keywords": [
+        "Java",
+        "Python",
+        "Apache Lucene"
+      ],
+      "startDate": "",
+      "endDate": "",
+      "url": "https://github.com/kikingo501/MathDowsers-ARQMath",
+      "roles": [],
+      "entity": "University of Waterloo",
+      "type": "application"
     }
   ]
 }

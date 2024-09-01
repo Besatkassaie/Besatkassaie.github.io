@@ -4,8 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: Besat_Academic_CV.pdf
-description: .
+cv_pdf: CV_Besat_Kassaie.pdf
+description: 
 toc:
   sidebar: left
 ---
