@@ -18,9 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-
-
-
 I am a postdoctoral researcher, supervised by Prof. Renée Miller, and a member of the Data Systems Group at the University of Waterloo. My research interests primarily focus on data systems.  I am particularly interested in challenges related to data intelligence, information extraction, unstructured data quality, and information retrieval.
 
-I hold a PhD in Computer Science from the University of Waterloo, where my thesis, supervised by Prof. Frank Tompa,  introduced and addressed the problem of updatability in document databases.
+I hold a PhD in Computer Science from the University of Waterloo, where my thesis, supervised by Prof. [Frank Tompa](https://cs.uwaterloo.ca/~fwtompa),  introduced and addressed the problem of updatability in document databases.
