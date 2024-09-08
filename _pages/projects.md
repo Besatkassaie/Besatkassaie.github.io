@@ -9,4 +9,4 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-# soon more contents will be added here.
+# Soon more contents will be added here.
