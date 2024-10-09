@@ -3,6 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: <a href='https://uwaterloo.ca/data-systems-group/'> Data Systems Group</a>, David R. Cheriton School of Computer Science, University of Waterloo
+subtitle: <a href='https://uwaterloo.ca/data-systems-group/'> Data Systems Group</a>, David R. Cheriton School of Computer Science, University of Waterloo
 
 profile:
   align: right
