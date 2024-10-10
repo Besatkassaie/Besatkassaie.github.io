@@ -194,6 +194,16 @@ collections:
       layout: post
     output: true
     permalink: /:collection/:title/
+  services:
+    defaults:
+      layout: post
+    output: true
+    permalink: /:collection/:title/  
+  talks:
+    defaults:
+      layout: post
+    output: true
+    permalink: /:collection/:title/
   projects:
     output: true
     permalink: /:collection/:title/
