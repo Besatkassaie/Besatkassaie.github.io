@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://uwaterloo.ca/data-systems-group/'> Data Systems Group</a>, David R. Cheriton School of Computer Science, University of Waterloo
 
@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info: 
     <p></p>
     <p>200 University Avenue West</p>
     <p>Waterloo, ON N2L 3G1 Canada</p>
