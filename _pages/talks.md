@@ -2,9 +2,9 @@
 layout: page
 permalink: /talks/
 title: talks
-description: talks.
-nav: false
+description: 
+nav: true
 nav_order: 6
 ---
 
-{% include news.liquid %}
+{% include talks.liquid %}
