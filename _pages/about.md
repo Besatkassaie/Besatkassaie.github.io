@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a postdoctoral researcher, supervised by Prof. Renée Miller, and a member of the Data Systems Group at the University of Waterloo. 
+I am a postdoctoral researcher, supervised by Prof. [Renée Miller](https://rjmillerlab.github.io/), and a member of the Data Systems Group at the University of Waterloo. 
 
 My research interests primarily focus on data systems.  I am particularly interested in challenges related to data intelligence, information extraction, unstructured data quality, and information retrieval.
 
