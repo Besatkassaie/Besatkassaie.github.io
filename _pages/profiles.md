@@ -3,7 +3,7 @@ layout: profiles
 permalink: /labs/
 title: Miller Labs
 description: Miller Labs
-nav: yes
+nav: no
 nav_order: 7
 
 profiles:
