@@ -1,8 +1,8 @@
 ---
 layout: profiles
-permalink: /people/
-title: Miller Lab
-description: members of the lab or group
+permalink: /labs/
+title: Miller Labs
+description: Miller Labs
 nav: yes
 nav_order: 7
 
