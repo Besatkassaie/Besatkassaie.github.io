@@ -4,8 +4,6 @@
     "label": "Postdoctoral Researcher",
     "image": "",
     "email": "bkassaie@uwaterloo.ca",
-    // "phone": "+1(519)722-5963",
-    // "url": "https://www.scg.uwaterloo.ca/brushsearch/",
     "summary": "I am involved in research focused on data intelligence and data lakes. I assist with the drafting of grant proposals and academic papers.",
     "location": {
       "address": "",
@@ -27,8 +25,6 @@
       "name": "The Cheriton School of Computer Science, University of Waterloo",
       "position": "Postdoctoral Researcher",
       "url": "https://www.uwaterloo.ca",
-      "startDate": "2024-01-01",
-      "endDate": "2024-09-01",
       "summary": "Research focused on data intelligence and data lakes.",
       "highlights": []
     },
@@ -36,8 +32,6 @@
       "name": "The Cheriton School of Computer Science, University of Waterloo",
       "position": "Visiting Researcher",
       "url": "https://www.uwaterloo.ca",
-      "startDate": "2023-01-01",
-      "endDate": "2023-09-01",
       "summary": "Served as a co-investigator on the math retrieval project, devising effective queries from texts containing mathematical formulas and content.",
       "highlights": []
     },
@@ -45,8 +39,6 @@
       "name": "Innovation Lab, University of Waterloo",
       "position": "Graduate Research Assistant",
       "url": "https://www.uwaterloo.ca",
-      "startDate": "2019-01-01",
-      "endDate": "2023-01-01",
       "summary": "Developed a platform that searches documents with text and mathematical content using a pen-based interface.",
       "highlights": []
     },
@@ -54,8 +46,6 @@
       "name": "The Cheriton School of Computer Science, University of Waterloo",
       "position": "Graduate Teaching Assistant & Graduate Research Assistant",
       "url": "https://www.uwaterloo.ca",
-      "startDate": "2015-01-01",
-      "endDate": "2019-01-01",
       "summary": "Assisted in multiple undergraduate courses in Data Structures & Algorithms, Database Systems, and Introduction to Computer Science.",
       "highlights": []
     },
@@ -63,29 +53,15 @@
       "name": "AGENCY FOR SCIENCE, TECHNOLOGY AND RESEARCH (A*STAR), Singapore",
       "position": "Senior Research Engineer",
       "url": "https://www.a-star.edu.sg",
-      "startDate": "2014-01-01",
-      "endDate": "2014-12-01",
       "summary": "Developed a machine-learning-based approach to design a sleep quality assessment tool for McLaren.",
       "highlights": []
     },
     {
       "name": "ITFORCE, Singapore",
       "position": "Information Technology Consultant",
-      "url": "",
-      "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
       "summary": "Consultant on software engineering projects.",
       "highlights": []
     },
-    {
-      "name": "MCLS, Iran",
-      "position": "Senior Data Engineer",
-      "url": "",
-      "startDate": "2009-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Senior Data Engineer in a large-scale data integration project.",
-      "highlights": []
-    }
   ],
   "volunteer": [],
   "education": [
@@ -94,8 +70,6 @@
       "url": "https://www.uwaterloo.ca",
       "area": "Computer Science",
       "studyType": "PhD",
-      "startDate": "2015-01-01",
-      "endDate": "2023-01-01",
       "score": "",
       "courses": [
         "PhD Thesis: Update-Aware Information Extraction",
@@ -108,8 +82,6 @@
       "url": "",
       "area": "Software Engineering",
       "studyType": "MENG",
-      "startDate": "2005-01-01",
-      "endDate": "2009-01-01",
       "score": "",
       "courses": [
         "Masters Thesis: Application of Textual Corpus in Ontology Matching",
@@ -121,8 +93,6 @@
       "url": "",
       "area": "Software Engineering",
       "studyType": "BENG",
-      "startDate": "2001-01-01",
-      "endDate": "2005-01-01",
       "score": "",
       "courses": [
         "Undergrad Research Advisor: Prof. Mohsen Sharifi"
