@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://uwaterloo.ca/data-systems-group/'> Data Systems Group</a>, David R. Cheriton School of Computer Science, University of Waterloo
+subtitle: <a href='https://rjmillerlab.github.io/labs/'>Data Intelligence Lab</a>, <a href='https://uwaterloo.ca/data-systems-group/'>Data Systems Group</a>, David R. Cheriton School of Computer Science, University of Waterloo
 
 profile:
   align: right
