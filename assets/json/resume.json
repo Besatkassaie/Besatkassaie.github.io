@@ -83,10 +83,7 @@
       "area": "Software Engineering",
       "studyType": "MENG",
       "score": "",
-      "courses": [
-        "Masters Thesis: Application of Textual Corpus in Ontology Matching",
-        "Thesis Advisor: Prof. Amir Masoud Rahmani"
-      ]
+      "courses": ["Masters Thesis: Application of Textual Corpus in Ontology Matching", "Thesis Advisor: Prof. Amir Masoud Rahmani"]
     },
     {
       "institution": "Iran University of Science and Technology, Iran",
@@ -94,9 +91,7 @@
       "area": "Software Engineering",
       "studyType": "BENG",
       "score": "",
-      "courses": [
-        "Undergrad Research Advisor: Prof. Mohsen Sharifi"
-      ]
+      "courses": ["Undergrad Research Advisor: Prof. Mohsen Sharifi"]
     }
   ],
   "awards": [
@@ -184,26 +179,17 @@
     {
       "name": "Programming Languages",
       "level": "",
-      "keywords": [
-        "Java",
-        "Scala",
-        "Python"
-      ]
+      "keywords": ["Java", "Scala", "Python"]
     },
     {
       "name": "Information Extraction Languages",
       "level": "",
-      "keywords": [
-        "AQL",
-        "JAPE"
-      ]
+      "keywords": ["AQL", "JAPE"]
     },
     {
       "name": "Search Engines",
       "level": "",
-      "keywords": [
-        "Apache Lucene"
-      ]
+      "keywords": ["Apache Lucene"]
     }
   ],
   "languages": [
@@ -227,25 +213,15 @@
   "interests": [
     {
       "name": "Data Systems",
-      "keywords": [
-        "Unstructured Data Management",
-        "Natural Language Processing",
-        "Information Extraction",
-        "Unstructured Data Quality"
-      ]
+      "keywords": ["Unstructured Data Management", "Natural Language Processing", "Information Extraction", "Unstructured Data Quality"]
     },
     {
       "name": "Information Retrieval",
-      "keywords": [
-        "Mathematical Information Retrieval"
-      ]
+      "keywords": ["Mathematical Information Retrieval"]
     },
     {
       "name": "Applied Machine Learning",
-      "keywords": [
-        "Health Informatics",
-        "Large Language Models for Data Systems"
-      ]
+      "keywords": ["Health Informatics", "Large Language Models for Data Systems"]
     }
   ],
   "references": [],
@@ -253,16 +229,8 @@
     {
       "name": "Differential Maintenance Engine (DME)",
       "description": "DME identifies documents' updates that can be autonomously applied on extracted relations.",
-      "highlights": [
-        "Sole designer and developer.",
-        "Conducted experiments published in the VLDB journal."
-      ],
-      "keywords": [
-        "Java",
-        "Scala",
-        "AQL",
-        "JAPE"
-      ],
+      "highlights": ["Sole designer and developer.", "Conducted experiments published in the VLDB journal."],
+      "keywords": ["Java", "Scala", "AQL", "JAPE"],
       "url": "https://github.com/Besatkassaie/Differential-Maintenance-Engine",
       "roles": [],
       "entity": "University of Waterloo",
@@ -271,15 +239,8 @@
     {
       "name": "Updatable Views Verifier (U2V)",
       "description": "U2V assesses the updatability of an extracted view presented as a JAPE program.",
-      "highlights": [
-        "Sole designer and developer."
-      ],
-      "keywords": [
-        "Java",
-        "Scala",
-        "AQL",
-        "JAPE"
-      ],
+      "highlights": ["Sole designer and developer."],
+      "keywords": ["Java", "Scala", "AQL", "JAPE"],
       "url": "https://git.uwaterloo.ca/bkassaie/updatableviews",
       "roles": [],
       "entity": "University of Waterloo",
@@ -288,15 +249,8 @@
     {
       "name": "Iterative Query Refinement System (IQRef)",
       "description": "An alternative approach to active learning for expert-in-the-loop cohort identification.",
-      "highlights": [
-        "Sole designer and developer.",
-        "Published in ACM HEALTH journal."
-      ],
-      "keywords": [
-        "Java",
-        "Python",
-        "Apache Lucene"
-      ],
+      "highlights": ["Sole designer and developer.", "Published in ACM HEALTH journal."],
+      "keywords": ["Java", "Python", "Apache Lucene"],
       "url": "",
       "roles": [],
       "entity": "University of Waterloo",
@@ -305,14 +259,8 @@
     {
       "name": "Math-Aware Search Engine",
       "description": "Search and retrieve documents including mathematical content for given math formulas and terms.",
-      "highlights": [
-        "Implemented features of the search engine, conducted study of proximity signals, created proximity re-ranking run."
-      ],
-      "keywords": [
-        "Java",
-        "Python",
-        "Apache Lucene"
-      ],
+      "highlights": ["Implemented features of the search engine, conducted study of proximity signals, created proximity re-ranking run."],
+      "keywords": ["Java", "Python", "Apache Lucene"],
       "url": "https://github.com/kikingo501/MathDowsers-ARQMath",
       "roles": [],
       "entity": "University of Waterloo",

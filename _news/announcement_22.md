@@ -4,4 +4,5 @@ date: 2026-02-15 09:30:00-0400
 inline: true
 related_posts: false
 ---
+
 I’m serving as Program Co-Chair for the 26th ACM Symposium on Document Engineering [(DocEng 2026)](https://doceng.org/doceng2026).
